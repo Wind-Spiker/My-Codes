@@ -1,0 +1,15 @@
+print("Epic and His Adventures")
+print("Sumadhur\nPrakash")
+print("Sumadhur\"Prakash")
+print("Sumadhur/Presley")
+
+phrase= "Epic and His Adventures"
+print(phrase + " is cool")
+print(phrase.lower())
+print(phrase.upper())
+print(phrase.isupper())
+print(phrase.upper().isupper())
+print(len(phrase))
+print(phrase[3])
+print(phrase.index("A"))
+print(phrase.replace("Epic", "C-Pain"))
